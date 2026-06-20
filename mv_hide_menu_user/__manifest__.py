@@ -1,8 +1,8 @@
 {
-    'name': 'Hide Any Menu User Wise',
+    'name': 'Hide User Wise Any Menu',
     'version': '19.0.1.0.0',
     'category': 'Extra Tools',
-    'summary': 'This Module Helps To Hide any Menu items user wise.',
+    'summary': 'This Module Helps To Hide User Wise Any Menu items.',
     'description': """This module provides functionality to hide or restrict menu 
     items on a per-user basis in Odoo.
     With this feature, administrators can manage which menus each user is allowed 
@@ -11,7 +11,7 @@
     'author': 'Marutiverse',
     'company': 'Marutiverse',
     'maintainer': 'Marutiverse',
-    'website': "",
+    "support": "support.marutiverse@gmail.com",
     'depends': ['base'],
     'data': [
         'views/res_users_views.xml',
