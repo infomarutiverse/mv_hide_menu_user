@@ -17,6 +17,9 @@
         'views/res_users_views.xml',
         'views/ir_ui_menu_views.xml',
     ],
+ "price": 5.0,
+    "currency": "USD",
+
     'license': 'LGPL-3',
     'images': ['static/description/banner.png'],
     'installable': True,
